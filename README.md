@@ -1,1 +1,1 @@
-This repository is intended for internal use and serves as a reference for the upcoming security audit of the JLP smart contracts. Below, you’ll find essential information about the project, its architecture, and how to navigate the codebase.
+This repository is intended for internal use and serves as a reference for the upcoming security audit of the JLP smart contracts. 
